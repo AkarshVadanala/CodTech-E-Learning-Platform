@@ -1,3 +1,14 @@
+---
+
+COMPANY: "CODTECH IT SOLUTIONS"
+NAME: "AKARSH VADANALA"
+INTERN ID: "CT6WVTV"
+DOMAIN: "FRONTEND WEB DEVELOPMENT"
+DURATION: "6 WEEKS"
+MENTOR: "NEELA SANTOSH KUMAR"
+
+---
+
 # E-Learning Platform (Frontend Only)
 
 A fully responsive and modern multi-page E-Learning website built using **HTML**, **CSS**, and **JavaScript**. This platform showcases a set of programming courses, supports light/dark mode toggling with an icon, and allows users to navigate to detailed pages for each course including embedded video tutorials.
